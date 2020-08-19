@@ -1,3 +1,5 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=oxr463&theme=graywhite&hide_title=true)
+
 # Lucas Ramage
 
 _Software Engineer with over a decade of experience and expertise with UNIX-like operating systems in both enterprise and start-up environments._
