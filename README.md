@@ -1,7 +1,5 @@
 # Lucas Ramage
 
-_Software Engineer with experience in UNIX-like operating systems and open source software in both enterprise and start-up environments._
-
 [![Creative Commons Attribution 4.0 International](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](https://spdx.org/licenses/CC-BY-4.0.html)
 [![GitLab](https://img.shields.io/badge/gitlab-lucas.ramage-orange?style=flat-square)](https://gitlab.com/lucas.ramage)
 [![GitLab](https://img.shields.io/badge/gitlab-lramage-orange?style=flat-square)](https://gitlab.com/lramage)
